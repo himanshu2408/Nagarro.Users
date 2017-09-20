@@ -1,0 +1,14 @@
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Business\bin\Debug\Nagarro.Users.Business.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Business\bin\Debug\Nagarro.Users.Business.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Business\obj\Debug\Nagarro.Users.Business.csprojResolveAssemblyReference.cache
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Business\obj\Debug\Nagarro.Users.Business.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Business\obj\Debug\Nagarro.Users.Business.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Business\bin\Debug\Nagarro.Users.Shared.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Business\bin\Debug\Nagarro.Users.Shared.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Business\bin\Debug\Nagarro.Users.Business.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Business\bin\Debug\Nagarro.Users.Business.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Business\bin\Debug\Nagarro.Users.Shared.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Business\bin\Debug\Nagarro.Users.Shared.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Business\obj\Debug\Nagarro.Users.Business.csprojResolveAssemblyReference.cache
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Business\obj\Debug\Nagarro.Users.Business.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Business\obj\Debug\Nagarro.Users.Business.pdb

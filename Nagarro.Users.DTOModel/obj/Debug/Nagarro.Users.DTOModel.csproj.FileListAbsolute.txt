@@ -1,0 +1,14 @@
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.DTOModel\bin\Debug\Nagarro.Users.DTOModel.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.DTOModel\bin\Debug\Nagarro.Users.DTOModel.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.DTOModel\obj\Debug\Nagarro.Users.DTOModel.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.DTOModel\obj\Debug\Nagarro.Users.DTOModel.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.DTOModel\obj\Debug\Nagarro.Users.DTOModel.csprojResolveAssemblyReference.cache
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.DTOModel\bin\Debug\Nagarro.Users.Shared.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.DTOModel\bin\Debug\Nagarro.Users.Shared.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.DTOModel\bin\Debug\Nagarro.Users.DTOModel.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.DTOModel\bin\Debug\Nagarro.Users.DTOModel.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.DTOModel\bin\Debug\Nagarro.Users.Shared.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.DTOModel\bin\Debug\Nagarro.Users.Shared.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.DTOModel\obj\Debug\Nagarro.Users.DTOModel.csprojResolveAssemblyReference.cache
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.DTOModel\obj\Debug\Nagarro.Users.DTOModel.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.DTOModel\obj\Debug\Nagarro.Users.DTOModel.pdb

@@ -1,0 +1,23 @@
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Data\bin\Debug\Nagarro.Users.Data.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Data\bin\Debug\Nagarro.Users.Data.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Data\obj\Debug\Nagarro.Users.Data.csprojResolveAssemblyReference.cache
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Data\obj\Debug\Nagarro.Users.Data.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Data\obj\Debug\Nagarro.Users.Data.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Data\bin\Debug\Nagarro.Users.EntityDataModel.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Data\bin\Debug\Nagarro.Users.Shared.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Data\bin\Debug\Nagarro.Users.EntityDataModel.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Data\bin\Debug\Nagarro.Users.Shared.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Data\bin\Debug\Nagarro.Users.Data.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Data\bin\Debug\Nagarro.Users.Data.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Data\bin\Debug\Nagarro.Users.EntityDataModel.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Data\bin\Debug\Nagarro.Users.Shared.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Data\bin\Debug\Nagarro.Users.EntityDataModel.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Data\bin\Debug\Nagarro.Users.Shared.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Data\obj\Debug\Nagarro.Users.Data.csprojResolveAssemblyReference.cache
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Data\obj\Debug\Nagarro.Users.Data.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Data\obj\Debug\Nagarro.Users.Data.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Data\bin\Debug\Nagarro.Users.Data.dll.config
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Data\bin\Debug\EntityFramework.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Data\bin\Debug\EntityFramework.xml
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Data\bin\Debug\EntityFramework.SqlServer.xml

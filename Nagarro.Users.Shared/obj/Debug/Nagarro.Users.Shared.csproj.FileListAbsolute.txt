@@ -1,0 +1,10 @@
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Shared\bin\Debug\Nagarro.Users.Shared.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Shared\bin\Debug\Nagarro.Users.Shared.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Shared\obj\Debug\Nagarro.Users.Shared.csprojResolveAssemblyReference.cache
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Shared\obj\Debug\Nagarro.Users.Shared.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users\Nagarro.Users.Shared\obj\Debug\Nagarro.Users.Shared.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Shared\bin\Debug\Nagarro.Users.Shared.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Shared\bin\Debug\Nagarro.Users.Shared.pdb
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Shared\obj\Debug\Nagarro.Users.Shared.csprojResolveAssemblyReference.cache
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Shared\obj\Debug\Nagarro.Users.Shared.dll
+C:\Users\himanshusingh\Documents\Visual Studio 2013\Projects\Nagarro.Users - Copy\Nagarro.Users.Shared\obj\Debug\Nagarro.Users.Shared.pdb
